@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## PAT (Basic Level) Practice （中文）
 
-You can use the [editor on GitHub](https://github.com/henryexhenry/PAT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- **[1001   害死人不偿命的(3n+1)猜想](https://henryexhenry.github.io/PAT/py1001)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **[1002	写出这个数](https://henryexhenry.github.io/PAT/py1002)**
 
-### Markdown
+- **[1003	我要通过！](https://henryexhenry.github.io/PAT/py1003)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **[1004	成绩排名](https://henryexhenry.github.io/PAT/py1004)**
 
-```markdown
-Syntax highlighted code block
+- **[1005	继续(3n+1)猜想](https://henryexhenry.github.io/PAT/py1005)**
 
-# Header 1
-## Header 2
-### Header 3
+- **[1006	换个格式输出整数](https://henryexhenry.github.io/PAT/py1006)**
 
-- Bulleted
-- List
+- **[1007	素数对猜想](https://henryexhenry.github.io/PAT/py1007)**
 
-1. Numbered
-2. List
+- **[1008	数组元素循环右移问题](https://henryexhenry.github.io/PAT/py1008)**
 
-**Bold** and _Italic_ and `Code` text
+- **[1009	说反话](https://henryexhenry.github.io/PAT/py1009)**
 
-[Link](url) and ![Image](src)
-```
+- **[1010	一元多项式求导](https://henryexhenry.github.io/PAT/py1010)**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **[1011	A+B 和 C](https://henryexhenry.github.io/PAT/py1011)**
 
-### Jekyll Themes
+- **[1012	数字分类](https://henryexhenry.github.io/PAT/py1012)**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/henryexhenry/PAT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **[1013	数素数](https://henryexhenry.github.io/PAT/py1013)**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **[1014	福尔摩斯的约会](https://henryexhenry.github.io/PAT/py1014)**
